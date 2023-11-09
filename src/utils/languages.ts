@@ -7,7 +7,7 @@ const languages = [
   //{ name: "German", nativeName: "Deutsch", viewBox: "0 198 82 66", code: "de" },
   //{ name: "Greek", nativeName: "Ελληνικά", viewBox: "0 924 82 66", code: "el" },
   //{ name: "English", nativeName: "English", viewBox: "0 0 82 66", code: "en" },
-  { name: "Testing", nativeName: "Español", viewBox: "0 66 82 66", code: "es" },
+  { name: "Spanish", nativeName: "Español", viewBox: "0 66 82 66", code: "es" },
   {
     name: "Recycling",
     nativeName: "Français",
